@@ -18,7 +18,7 @@ I'm Leith D. Schmidtlein, a student at Brigham Young University–Idaho majoring
 
 ## Let's Connect!  
 
-- Here is my [LinkedIn](https://linkedin.com/in/leith-d-schmidtlein) profile  
+- Here is my [LinkedIn](https://www.linkedin.com/in/leith-schmidtlein-904935275/) profile  
 - Feel free to reach out via email: ldschmidtlein@gmail.com  
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀  
