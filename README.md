@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋  
 
-I'm Leith D. Schmidtlein, a student at Brigham Young University–Idaho majoring in Software Engineering with a minor in Sociology. Welcome to my GitHub profile!  
+I'm Leith D. Schmidtlein, a student at Brigham Young University–Idaho, majoring in Software Engineering with a minor in Sociology. Welcome to my GitHub profile!  
 
 ## About Me  
 
@@ -21,4 +21,4 @@ I'm Leith D. Schmidtlein, a student at Brigham Young University–Idaho majoring
 - Here is my [LinkedIn](https://www.linkedin.com/in/leith-schmidtlein-904935275/) profile  
 - Feel free to reach out via email: ldschmidtlein@gmail.com  
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀  
+Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀  
